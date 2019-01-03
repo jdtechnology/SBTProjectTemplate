@@ -48,3 +48,4 @@ git add .
 git commit -m "Initial Commit"
 
 echo 'Ready for development! :)'
+rm ./init.sh
