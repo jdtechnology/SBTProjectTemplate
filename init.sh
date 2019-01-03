@@ -40,6 +40,7 @@ echo Updating the file and directory structure of the main class
 proc true
 
 echo Cleaning up install
+
 rm -r tmp
 rm -rf .git
 git init
