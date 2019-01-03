@@ -1,2 +1,7 @@
 # SBTProjectTemplate
-Command F, SBTProjectTemplate, replace with name of project.
+
+## Getting Started
+
+Run `./init.sh` and follow the instructions.
+
+###### SBTProjectTemplate
